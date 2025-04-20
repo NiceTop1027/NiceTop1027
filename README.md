@@ -1,5 +1,4 @@
 # 🔥 0x5H1M_W00_CH3UL 🔥  
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=800&size=28&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=W3LC0M3+70+MY+H4CK1NG+D3N.;SYST3M+INITI4LIZ1NG...;L0AD1NG+PR0F1L3+D4T4...;4CC3SS+GR4NT3D.;)](https://git.io/typing-svg)
