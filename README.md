@@ -1,5 +1,4 @@
 # 🔥 0x5H1M_W00_CH3UL 🔥  
-### **`>> Ethical Hacker | Security Researcher | Code Breaker`**  
 
 <div align="center">
   
