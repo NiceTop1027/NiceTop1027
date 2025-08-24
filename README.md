@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicetop1027&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="200" />
+  <img src="https://komarev.com/ghpvc/?username=nicetop1027&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="100" />
 </p>
 
 <p align="center">
