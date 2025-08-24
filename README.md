@@ -3,11 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://i.ibb.co/G3JdZmmp/image0.jpg" alt="Profile Image" width="150" height="150" style="border-radius: 100%; object-fit: cover;" />
-</p>
-
-
 ## 🔭 Current Work
 I’m currently working on [NiceTop](https://nicetop.dyhs.kr), a cutting-edge security challenge platform focused on real-world hacking skills.
 
