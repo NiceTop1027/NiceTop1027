@@ -28,9 +28,8 @@ You can reach me at **mistarcodm@gmail.com**
 
 ## 🌐 Connect with Me
 
-<!-- 예시로 LinkedIn 등 추가 가능 -->
 <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 ---
@@ -38,8 +37,8 @@ You can reach me at **mistarcodm@gmail.com**
 ## 🏆 Baekjoon Online Judge Profile
 
 <p align="center">
-  <a href="https://www.acmicpc.net/user/your_baekjoon_id" target="_blank" rel="noopener noreferrer">
-    <img src="https://solved.ac/profile/your_baekjoon_id.svg" alt="Baekjoon Profile" width="400" />
+  <a href="https://www.acmicpc.net/user/edenya" target="_blank" rel="noopener noreferrer">
+    <img src="https://solved.ac/profile/edenya" alt="백준 Edenya 프로필" width="400" />
   </a>
 </p>
 
