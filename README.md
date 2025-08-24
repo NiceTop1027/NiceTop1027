@@ -3,13 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/NiceTop1027)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/85418279/39815771-4109-421f-992c-7609310b6904/nicetoplogo.jpg" alt="Trophies" width="300" />
-  </a>
-</p>
 
 ---
 
@@ -91,7 +84,7 @@ You can reach me at **mistarcodm@gmail.com**
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=kr" alt="GitHub Stats" />
 </p>
 
 <p>
