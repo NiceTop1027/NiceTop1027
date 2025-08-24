@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<!-- Header with animated capsule render -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sim+Woochul&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
@@ -116,6 +117,7 @@ I am passionate about cybersecurity and developing hands-on skills through chall
 If you want to discuss projects, collaborate, or just say hi, feel free to contact me at **mistarcodm@gmail.com**.
 
 ---
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-*Last updated: August 2025*
+<p align="center">
+  <small>Last updated: August 2025</small>
+</p>
