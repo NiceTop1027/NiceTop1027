@@ -116,5 +116,6 @@ I am passionate about cybersecurity and developing hands-on skills through chall
 If you want to discuss projects, collaborate, or just say hi, feel free to contact me at **mistarcodm@gmail.com**.
 
 ---
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 *Last updated: August 2025*
