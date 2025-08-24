@@ -39,13 +39,19 @@ You can reach me at **mistarcodm@gmail.com**
 
 ## 🏆 Baekjoon Online Judge Profile
 
+<p align="center">
+  <a href="https://www.acmicpc.net/user/edenya" target="_blank" rel="noopener noreferrer">
+    <img src="https://solved.ac/profile/edenya" alt="백준 Edenya 프로필" width="400" />
+  </a>
+</p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edenya)](https://solved.ac/edenya/)
 
 ---
 
 ## 💻 Languages & Tools
 
-<p>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
@@ -88,16 +94,16 @@ You can reach me at **mistarcodm@gmail.com**
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027&" alt="GitHub Streak" />
 </p>
 
 ---
