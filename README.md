@@ -39,11 +39,7 @@ You can reach me at **mistarcodm@gmail.com**
 
 ## 🏆 Baekjoon Online Judge Profile
 
-<p align="center">
-  <a href="https://www.acmicpc.net/user/edenya" target="_blank" rel="noopener noreferrer">
-    <img src="https://solved.ac/profile/edenya" alt="백준 Edenya 프로필" width="400" />
-  </a>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edenya)](https://solved.ac/edenya/)
 
 ---
 
