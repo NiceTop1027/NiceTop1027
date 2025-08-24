@@ -3,11 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
-<div align="center" style="margin: 40px 0">
-  <a href="https://github.com/NiceTop1027">
-    <img width="120px" src="https://komarev.com/ghpvc/?username=NiceTop1027&label=Profile%20views&color=0e75b6" alt="Profile views" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
