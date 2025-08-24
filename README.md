@@ -45,13 +45,11 @@ You can reach me at **mistarcodm@gmail.com**
   </a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edenya)](https://solved.ac/edenya/)
-
 ---
 
 ## 💻 Languages & Tools
 
-<p align="center">
+<p>
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
@@ -94,16 +92,16 @@ You can reach me at **mistarcodm@gmail.com**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027&" alt="GitHub Streak" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027&" alt="GitHub Streak" />
 </p>
 
 ---
