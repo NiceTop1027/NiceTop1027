@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Sim Woochul</h1>
 
-
 ---
 
 ## 🔭 Current Work
@@ -84,7 +83,7 @@ You can reach me at **mistarcodm@gmail.com**
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=kr" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
