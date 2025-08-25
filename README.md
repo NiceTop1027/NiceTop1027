@@ -23,18 +23,6 @@ I’m currently working on [NiceTop](https://nicetop.dyhs.kr), a cutting-edge se
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027" alt="GitHub Streak" />
 </p>
 
----
-
-## 🎯 About Me
-I am passionate about cybersecurity and developing hands-on skills through challenge platforms like NiceTop. I enjoy learning new exploit techniques and collaborating with fellow security researchers to push the boundaries of knowledge.
-
----
-
-## 📬 Get In Touch
-If you want to discuss projects, collaborate, or just say hi, feel free to contact me at **mistarcodm@gmail.com**.
-
----
-
 <p align="center">
   <small>Last updated: August 2025</small>
 </p>
