@@ -6,18 +6,6 @@
 ## 🔭 Current Work
 I’m currently working on [NiceTop](https://nicetop.dyhs.kr), a cutting-edge security challenge platform focused on real-world hacking skills.
 
-## 🌱 Learning
-Currently leveling up my skills in **Pwnable** challenges to deepen my exploit development knowledge.
-
-## 👯 Collaboration
-Interested in collaborating on cybersecurity research and hands-on projects. Feel free to reach out!
-
-## 📫 Contact Me
-You can reach me at **mistarcodm@gmail.com**
-
----
-
-## 🌐 Connect with Me
 ---
 
 ## 🏆 Baekjoon Online Judge Profile
