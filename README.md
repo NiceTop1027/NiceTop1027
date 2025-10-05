@@ -1,31 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sim+Woochul&fontSize=90)
+# Sim Woochul
 
-# Hi 👋, I'm Sim Woochul
+안녕하세요! 보안과 개발에 관심이 많은 심우철입니다.
 
-## 🔭 Current Work
-I’m currently working on [NiceTop](https://nicetop.dyhs.kr), a cutting-edge security challenge platform focused on real-world hacking skills.
+## About Me
 
----
+현재 **NiceTop**이라는 실전 해킹 기술에 초점을 맞춘 보안 챌린지 플랫폼을 개발하고 있습니다.
 
-## 🏆 Baekjoon Online Judge Profile
+🔗 [NiceTop 바로가기](https://nicetop.dyhs.kr)
+
+## Skills & Stats
+
+### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edenya)](https://solved.ac/edenya/)
 
----
-
-## 📊 GitHub Stats
+### GitHub Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" style="margin-right: 10px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en" alt="GitHub Stats" width="45%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicetop1027&show_icons=true&locale=en&layout=compact&theme=default)
 
-  <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicetop1027&show_icons=true&locale=en&theme=default)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027" alt="GitHub Streak" width="90%" style="margin-top: 15px;" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicetop1027&theme=default)
 
 </div>
 
-<p align="center">
-  <small>Last updated: August 2025</small>
-</p>
+---
+
+<div align="center">
+  <sub>💡 Always learning, always building</sub>
+</div>
