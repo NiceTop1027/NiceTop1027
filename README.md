@@ -68,18 +68,6 @@
 
 ---
 
-## 🏆 Baekjoon Online Judge
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edenya)](https://solved.ac/edenya/)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=edenya&theme=warm)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Contact Me
