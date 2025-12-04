@@ -2,8 +2,6 @@
 
 # 👋 안녕하세요, 심우철입니다
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Security+Enthusiast+%F0%9F%94%90;Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9)](https://github.com/nicetop1027)
-
 </div>
 
 ---
