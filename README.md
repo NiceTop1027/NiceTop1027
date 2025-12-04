@@ -2,39 +2,6 @@
 
 # 👋 안녕하세요, 심우철입니다
 
-</div>
-
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 💼 Current Project
-현재 **NiceTop** 플랫폼을 개발하고 있습니다.  
-실전 해킹 기술과 보안 챌린지에 초점을 맞춘 프로젝트입니다.
-
-<a href="https://nicetop.dyhs.kr">
-  <img src="https://img.shields.io/badge/Visit-NiceTop-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NiceTop"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🎯 Interests
-- 🔐 Cybersecurity & Ethical Hacking
-- 💻 Web Development
-- 🧩 Algorithm & Problem Solving
-- 🛠️ CTF Challenges
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
